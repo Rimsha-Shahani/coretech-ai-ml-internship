@@ -55,8 +55,13 @@ Artificial Intelligence (AI) is the broad field of creating intelligent machines
 The screenshots folder contains:
 
 * GitHub Account Screenshot
+  <img width="1356" height="623" alt="Googlecolab" src="https://github.com/user-attachments/assets/b9094fd2-e152-4828-b1a2-6957f2b458e9" />
+
 * Kaggle Account Screenshot
+  <img width="1191" height="545" alt="Kaggle" src="https://github.com/user-attachments/assets/8e540429-73e8-49e5-85ec-ff4354bea9f2" />
+
 * Google Colab Notebook Screenshot
+<img width="1356" height="623" alt="Googlecolab" src="https://github.com/user-attachments/assets/4796e3ee-64d7-416a-bdc9-d27ab180fd2b" />
 
 ---
 
