@@ -1,0 +1,51 @@
+Feedback_ID,Client_Name,Service,Feedback_Text,Rating,Sentiment
+1,Client_1,Support,Very satisfied,4,Positive
+2,Client_2,Support,Helpful staff,4,Positive
+3,Client_3,Support,Quick response,5,Positive
+4,Client_4,Web,Great support,4,Positive
+5,Client_5,Mobile,Outstanding performance,5,Positive
+6,Client_6,Web,Highly recommended,4,Positive
+7,Client_7,Web,Highly recommended,5,Positive
+8,Client_8,Web,Great support,5,Positive
+9,Client_9,Mobile,Outstanding performance,4,Positive
+10,Client_10,Mobile,Highly recommended,4,Positive
+11,Client_11,Web,Highly recommended,4,Positive
+12,Client_12,Mobile,Helpful staff,5,Positive
+13,Client_13,Web,Great support,5,Positive
+14,Client_14,Web,Amazing experience,4,Positive
+15,Client_15,Mobile,Helpful staff,4,Positive
+16,Client_16,Web,Amazing experience,5,Positive
+17,Client_17,Support,Excellent service,5,Positive
+18,Client_18,Support,Quick response,5,Positive
+19,Client_19,Support,Amazing experience,5,Positive
+20,Client_20,Web,Friendly team,5,Positive
+21,Client_21,Mobile,Great support,5,Positive
+22,Client_22,Support,Quick response,5,Positive
+23,Client_23,Mobile,Highly recommended,5,Positive
+24,Client_24,Mobile,Excellent service,4,Positive
+25,Client_25,Mobile,Highly recommended,5,Positive
+26,Client_26,Mobile,Waste of time,2,Negative
+27,Client_27,Web,Poor support,1,Negative
+28,Client_28,Mobile,Poor support,2,Negative
+29,Client_29,Mobile,Poor support,2,Negative
+30,Client_30,Mobile,Slow response,1,Negative
+31,Client_31,Support,Poor support,1,Negative
+32,Client_32,Web,Very disappointed,2,Negative
+33,Client_33,Web,Very disappointed,2,Negative
+34,Client_34,Web,Slow response,1,Negative
+35,Client_35,Mobile,Needs improvement,1,Negative
+36,Client_36,Support,Unprofessional behavior,1,Negative
+37,Client_37,Support,Poor support,2,Negative
+38,Client_38,Support,Application crashes often,1,Negative
+39,Client_39,Support,Very disappointed,2,Negative
+40,Client_40,Web,Unprofessional behavior,2,Negative
+41,Client_41,Mobile,Slow response,2,Negative
+42,Client_42,Support,Poor support,1,Negative
+43,Client_43,Web,Bad experience,2,Negative
+44,Client_44,Mobile,Slow response,1,Negative
+45,Client_45,Support,Poor support,2,Negative
+46,Client_46,Support,Application crashes often,1,Negative
+47,Client_47,Mobile,Bad experience,1,Negative
+48,Client_48,Support,Needs improvement,1,Negative
+49,Client_49,Web,Waste of time,1,Negative
+50,Client_50,Mobile,Application crashes often,1,Negative
